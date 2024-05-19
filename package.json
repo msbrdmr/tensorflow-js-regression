@@ -1,0 +1,18 @@
+{
+  "name": "2dprediction",
+  "version": "1.0.0",
+  "description": "TensorFlow.js — Making Predictions from 2D Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.19.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "@types/node": "^20.12.12",
+    "express": "^4.19.2"
+  }
+}
